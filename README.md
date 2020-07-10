@@ -2,13 +2,8 @@
 
 Melanie Lucht
 
-Semesterarbeit: Moderne Datenbanktechnologien  
-Fachhochschule Lübeck / 
-University of Applied Sciences  
-Master Medieninformatik  
- 
-Dozent: Nikolai Alex  
-Wintersemester 2016/17
+Moderne Datenbanktechnologien    
+Semesterarbeit 2016/17
 
 ***
 
